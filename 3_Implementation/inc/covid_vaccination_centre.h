@@ -9,11 +9,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-
-
-
-struct person
-{
+struct person{
     int age;    
     char first_name[20];
     char last_name[20];
@@ -21,18 +17,19 @@ struct person
     char isVaccinated[10];
     
 }people[150];
-//extern struct person person;
+
+
 
 
 
 void edit();
 void add();
-void search();
+
 void del();
 void search();
 void read();
 void write();
-void show();
+
 void view();
 
 

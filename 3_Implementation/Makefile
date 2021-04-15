@@ -21,10 +21,16 @@ endif
 SRC = project_main.c\
 src/centre_functions.c
 
+# All test source files
+TEST_SRC = src/centre_functions.c\
+test/test_centre_functions.c\
+unity/unity.c\
 
+TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
 # All include folders with header files
 INC	= -Iinc\
+-Iunity\
 
 
 #Library Inlcudes
@@ -50,11 +56,21 @@ all: $(SRC) $(BUILD)
 run:$(PROJECT_NAME)
 	./$(PROJECT_OUTPUT).out
 
-
+# Build and run the unit tests
+test:$(BUILD)
+	gcc $(TEST_SRC) $(INC) -o $(TEST_OUTPUT)
+	./$(TEST_OUTPUT)
 
 # Remove all the built files, invoke by `make clean`
 clean:
 	rm -rf $(BUILD) $(DOCUMENTATION_OUTPUT)
+
+
+#Coverage
+coverageCheck:$(BUILD)
+	g++ -fprofile-arcs -ftest-coverage -fPIC -O0 $(TEST_SRC) $(INC) -o $(TEST_OUTPUT)
+	./$(TEST_OUTPUT)
+
 
 # Create new build folder if not present
 $(BUILD):
