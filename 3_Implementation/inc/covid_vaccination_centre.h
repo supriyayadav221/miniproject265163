@@ -31,7 +31,7 @@ void search();
 void del();
 void search();
 void read();
-void writ();
+void write();
 void show();
 void view();
 

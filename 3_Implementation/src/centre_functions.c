@@ -387,7 +387,7 @@ void del()
     else
         printf("\n\n\n Invalid Serial number\n");
 }
-void writ()
+void write()
 {
     FILE *fp=fopen("records.txt","w");
     if(fp==NULL)
