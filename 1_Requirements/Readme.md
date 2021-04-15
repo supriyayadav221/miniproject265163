@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
- --- TBD 
+ --- CVC is a portal/application to be used in covid vaccination centre where records can be kept of a particular ward/area. If there are 100 people in an area, CVC will help the covid vaccination centre to add and view their data like Name, Age,Aadhar number, phone number and then vaccination status can be alloted : "YES" or "No". These records can be updated/edited and deleted by responsible authority. Search option is provided to view the details.
 
 ## Research
 ![Description](Link to Pic)
