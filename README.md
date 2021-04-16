@@ -1,4 +1,5 @@
 # SDLC Activity Based Learning
+![CVC](https://github.com/supriyayadav221/miniproject265163/blob/master/vaccine%20pic.cms)
 
 Visit [Pages for Report -optional](using github.io option)
 
