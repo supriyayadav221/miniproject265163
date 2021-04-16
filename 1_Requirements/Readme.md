@@ -4,14 +4,22 @@
 
 ## Research
 ![Description](Link to Pic)
--- Content 
+-- The COVID-19 vaccine was launched on 16th January, 2021. The first group includes healthcare and frontline workers. The second group to receive COVID-19 vaccine are persons over 60 years of age as of January 1st, 2022 and persons between 45 and 59 years with comorbid conditions.
 ## Cost and Features
 ![Description](Link to Pic)
--- Content 
+-- Covishield: Rs 200 per dose (for first 100 million doses), Rs 1,000 per dose thereafter at private outlets
+Covaxin: Rs 206 per dose
+Pfizer-BioNTech: Rs 1,431 per dose
+Moderna: Rs 2,348 to Rs 2,715 per dose
+Sinopharm: less than Rs 5,650 per dose
+Sinovac Biotech: Rs 1,027 per dose
+Novavax: Rs 1,114 per dose
+Gamaleya Centre: less than Rs 734 per dose
+Johnson and Johnson: Rs 734 per dose
 ## Defining Our System
-    -- TBD
+    -- 
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+![SWOT-Sample](https://github.com/supriyayadav221/miniproject265163/blob/master/1_Requirements/swot.png)
 
 # 4W&#39;s and 1&#39;H
 
