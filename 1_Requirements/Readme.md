@@ -6,14 +6,45 @@
 
 The COVID-19 vaccine was launched on 16th January, 2021. The first group includes healthcare and frontline workers. The second group to receive COVID-19 vaccine are persons over 60 years of age as of January 1st, 2022 and persons between 45 and 59 years with comorbid conditions.
 ## Cost and Features
+ID |NAME           | Cost
+--|-------------------| -----------------------------------------
+1 | Covishield | Rs 200 per dose
+2 | Covaxin | Rs 206 per dose
+3 | Pfizer-BioNTech | Rs 1,431 per dose
 
-1.Covishield: Rs 200 per dose (for first 100 million doses), Rs 1,000 per dose thereafter at private outlets
-2.Covaxin: Rs 206 per dose
-3.Pfizer-BioNTech: Rs 1,431 per dose
-4.Moderna: Rs 2,348 to Rs 2,715 per dose
 
 ## Defining Our System
-    -- 
+STEP |Adding records          
+--|-------------------
+1 | Input first name
+2 | Input last name
+3 | Input aadhar number 
+4 | Input phone number
+5 | Input age
+
+STEP |Viewing records         
+--|-------------------
+1 | Input serial number to view all records
+
+STEP |Deleting records         
+--|-------------------
+1 | Input serial number to delete whole record
+2 | Input serial number then delete particular data viz first name, last name etc
+
+STEP |Edit records         
+--|-------------------
+1 | Input serial number then edit particular data viz first name, last name etc
+
+STEP |Searching records         
+--|-------------------
+1 | Input serial number to search particular record
+1 | Input first name/last name/age/ aadhar no to search data
+
+
+
+
+
+    
 ## SWOT ANALYSIS
 ![SWOT-Sample](https://github.com/supriyayadav221/miniproject265163/blob/master/1_Requirements/swot.png)
 
