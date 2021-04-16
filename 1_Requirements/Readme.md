@@ -1,21 +1,17 @@
 # Requirements
 ## Introduction
- --- CVC is a portal/application to be used in covid vaccination centre where records can be kept of a particular ward/area. If there are 100 people in an area, CVC will help the covid vaccination centre to add and view their data like Name, Age,Aadhar number, phone number and then vaccination status can be alloted : "YES" or "No". These records can be updated/edited and deleted by responsible authority. Search option is provided to view the details.
+ CVC is a portal/application to be used in covid vaccination centre where records can be kept of a particular ward/area. If there are 100 people in an area, CVC will help the covid vaccination centre to add and view their data like Name, Age,Aadhar number, phone number and then vaccination status can be alloted : "YES" or "No". These records can be updated/edited and deleted by responsible authority. Search option is provided to view the details.
 
 ## Research
-![Description](Link to Pic)
--- The COVID-19 vaccine was launched on 16th January, 2021. The first group includes healthcare and frontline workers. The second group to receive COVID-19 vaccine are persons over 60 years of age as of January 1st, 2022 and persons between 45 and 59 years with comorbid conditions.
+
+The COVID-19 vaccine was launched on 16th January, 2021. The first group includes healthcare and frontline workers. The second group to receive COVID-19 vaccine are persons over 60 years of age as of January 1st, 2022 and persons between 45 and 59 years with comorbid conditions.
 ## Cost and Features
-![Description](Link to Pic)
--- Covishield: Rs 200 per dose (for first 100 million doses), Rs 1,000 per dose thereafter at private outlets
-Covaxin: Rs 206 per dose
-Pfizer-BioNTech: Rs 1,431 per dose
-Moderna: Rs 2,348 to Rs 2,715 per dose
-Sinopharm: less than Rs 5,650 per dose
-Sinovac Biotech: Rs 1,027 per dose
-Novavax: Rs 1,114 per dose
-Gamaleya Centre: less than Rs 734 per dose
-Johnson and Johnson: Rs 734 per dose
+
+1.Covishield: Rs 200 per dose (for first 100 million doses), Rs 1,000 per dose thereafter at private outlets
+2.Covaxin: Rs 206 per dose
+3.Pfizer-BioNTech: Rs 1,431 per dose
+4.Moderna: Rs 2,348 to Rs 2,715 per dose
+
 ## Defining Our System
     -- 
 ## SWOT ANALYSIS
@@ -45,10 +41,17 @@ Johnson and Johnson: Rs 734 per dose
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+
+ID | Description | Status (Implemented/Future)
+1  | User inputs | Implemented
+2  | Displaying outputs | Implemented
 
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+ID | Description | Status (Implemented/Future)
+1 | Fetching Inputs | Implemented
+2 | Adding record to file | Implememted
+3 | Displaying records from file | Implememted
+4 | Searching record from file | Implememted
+5 | Filteration on the basis of Date of birth | Future
+6 | implementation of age based filteration | Future
