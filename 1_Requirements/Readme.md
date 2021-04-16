@@ -25,19 +25,19 @@ The COVID-19 vaccine was launched on 16th January, 2021. The first group include
 
 ## What:
 
-**TBD**
+**This portal helps workers who are giving vaccine to keep track of how many people have been vaccinated and their details are also saved for future purposes.**
 
 ## When:
 
-**TBD**
+**Wherever vaccination drives are held, this portal can be used there.**
 
 ## Where:
 
-**TBD**
+**This portal can be used all across country where vacciantion drives are running**
 
 ## How:
 
-**TBD**
+**Entered first name, last name , age, phone number, aadhar number are saved, which can be viewed , edited, deleted and searched. Every record is given a vaccination status of YES or NO.(NO in case someone refuses to take vaccination at last minute or some unfavourable conditions occur)**
 
 # Detail requirements
 ## High Level Requirements:
