@@ -19,9 +19,9 @@ The COVID-19 vaccine was launched on 16th January, 2021. The first group include
 
 # 4W&#39;s and 1&#39;H
 
-## Who:
+## Who: 
 
-**TBD**
+**health care workers or frontline workers who are engaged in vaccination drives will use this portal.**
 
 ## What:
 
@@ -42,11 +42,6 @@ The COVID-19 vaccine was launched on 16th January, 2021. The first group include
 # Detail requirements
 ## High Level Requirements:
 
-ID | Description | Status (Implemented/Future)
-1  | User inputs | Implemented
-2  | Displaying outputs | Implemented
-
-# Folder Structure
 ID |Description           | Implemented/Future
 ---|-------------------| -----------------------------------------
 1|`User inputs`   | Implemented
