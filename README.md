@@ -21,12 +21,12 @@ Folder             | Description
 
 SFID |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`265163` | Supriya  | Feature A, B etc    | 1 No     | 0 No   |0 No   |0 No     
+`265163` | Supriya  | Feature A, B etc    | 1 No     | X No   |X No   |X No     
    
 
 ## Challenges Faced and How Was It Overcome
 
-1. Mulifile programming : Handles by the MakeFile.
+1. Mulifile programming : Handled by the MakeFile.
 
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
