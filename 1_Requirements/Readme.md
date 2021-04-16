@@ -48,7 +48,7 @@ ID | Description | Status (Implemented/Future)
 
 # Folder Structure
 ID |Description           | Implemented/Future
-|-------------------| -----------------------------------------
+---|-------------------| -----------------------------------------
 1|`User inputs`   | Implemented
 2|`Displaying outputs`         | Implemented
 3|`Classification based on Dates` | Future
@@ -56,16 +56,8 @@ ID |Description           | Implemented/Future
 
 
 ##  Low level Requirements:
-ID | Description | Status (Implemented/Future)
-1 | Fetching Inputs | Implemented
-2 | Adding record to file | Implememted
-3 | Displaying records from file | Implememted
-4 | Searching record from file | Implememted
-5 | Filteration on the basis of Date of birth | Future
-6 | implementation of age based filteration | Future
-
 ID |Description           | Implemented/Future
-|-------------------| -----------------------------------------
+--|-------------------| -----------------------------------------
 1 | Fetching Inputs | Implemented
 2 | Adding record to file | Implememted
 3 | Displaying records from file | Implememted
